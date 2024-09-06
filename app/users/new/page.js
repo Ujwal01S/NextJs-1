@@ -3,7 +3,7 @@ import React from 'react'
 
 const New = () => {
   return (
-    <div>new</div>
+    <div>new page</div>
   )
 }
 
